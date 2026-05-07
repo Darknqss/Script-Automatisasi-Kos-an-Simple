@@ -36,7 +36,7 @@ function cekDanKirimTagihan() {
 
         var pesan = "";
         var salam = "Om Swastyastu, Selamat pagi Kak. Mohon maaf mengganggu waktunya.\n\n";
-        var perkenalan = "Perkenalkan saya Tugus, saya yang akan menggantikan kakak saya mengurus pembayaran kos-kosan mulai bulan ini.\n\n";
+        var perkenalan = "Perkenalkan nama saya (nama anda)";
         var penutup = `\n\nPembayaran dapat ditransfer melalui rekening:\n*${noRekening}*\n\nTerima kasih 🙏`;
 
         if (selisih === 7) {
